@@ -1,0 +1,58 @@
+<posts>
+<post>
+  <id>1</id>
+  <title>블라우스</title>
+  <price>7000</price>
+  <content>샤랄라 블라우스!</content>
+  <imageurl>blouse.jpg</imageurl>
+  <stock>8</stock>
+</post>
+<post>
+  <id>2</id>
+  <title>가디건</title>
+  <price>5000</price>
+  <content>깔끔한 디자인의 가디건!</content>
+  <imageurl>cardigan.jpg</imageurl>
+  <stock>13</stock>
+</post>
+<post>
+  <id>3</id>
+  <title>니트</title>
+  <price>6000</price>
+  <content>귀여운 노란 니트!</content>
+  <imageurl>neat.jpg</imageurl>
+  <stock>4</stock>
+</post>
+<post>
+  <id>4</id>
+  <title>후드티</title>
+  <price>6000</price>
+  <content>어디서나 편하게 입을 수 있는 후드티!</content>
+  <imageurl>hood.jpg</imageurl>
+  <stock>14</stock>
+</post>
+<post>
+  <id>5</id>
+  <title>청바지</title>
+  <price>12000</price>
+  <content>주문 폭주 청바지!</content>
+  <imageurl>jean.jpg</imageurl>
+  <stock>1</stock>
+</post>
+<post>
+  <id>6</id>
+  <title>슬랙스</title>
+  <price>9000</price>
+  <content>단정하게 입을 수 있는 슬랙스!</content>
+  <imageurl>slacks.jpg</imageurl>
+  <stock>0</stock>
+</post>
+<post>
+  <id>7</id>
+  <title>양말</title>
+  <price>500원</price>
+  <content>기본 양말 세일중!</content>
+  <imageurl>socks.jpg</imageurl>
+  <stock>100</stock>
+</post>
+</posts>

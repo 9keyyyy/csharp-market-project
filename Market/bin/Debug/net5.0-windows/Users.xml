@@ -1,0 +1,68 @@
+<users>
+<user>
+  <id>0</id>
+  <pw>0</pw>
+  <name>관리자</name>
+  <addr></addr>
+</user>
+<user>
+  <id>1</id>
+  <pw>1</pw>
+  <name>연하진</name>
+  <addr>서울</addr>
+</user>
+<user>
+  <id>2</id>
+  <pw>2</pw>
+  <name>윤인성</name>
+  <addr>경기도</addr>
+</user>
+<user>
+  <id>3</id>
+  <pw>3</pw>
+  <name>윤아린</name>
+  <addr>경상도</addr>
+</user>
+<user>
+  <id>4</id>
+  <pw>4</pw>
+  <name>홍길동</name>
+  <addr>광주</addr>
+</user>
+<user>
+  <id>5</id>
+  <pw>5</pw>
+  <name>조국희</name>
+  <addr>분당구</addr>
+</user>
+<user>
+  <id>8</id>
+  <pw>8</pw>
+  <name>이미자</name>
+  <addr>경기도</addr>
+</user>
+<user>
+  <id>7</id>
+  <pw>7</pw>
+  <name>윤아람</name>
+  <addr>부산</addr>
+</user>
+<user>
+  <id>9</id>
+  <pw>9</pw>
+  <name>김태현</name>
+  <addr>대구</addr>
+</user>
+<user>
+  <id>10</id>
+  <pw>10</pw>
+  <name>김민수</name>
+  <addr>서울</addr>
+</user>
+<user>
+  <id>11</id>
+  <pw>11</pw>
+  <name>김용필</name>
+  <addr>강원도</addr>
+</user>
+</users>

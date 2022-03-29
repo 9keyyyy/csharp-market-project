@@ -1,0 +1,12 @@
+<purchases>
+<purchase>
+  <id>1</id>
+  <uid>5</uid>
+  <pid>1</pid>
+</purchase>
+<purchase>
+  <id>2</id>
+  <uid>1</uid>
+  <pid>4</pid>
+</purchase>
+</purchases>

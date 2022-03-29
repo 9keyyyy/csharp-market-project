@@ -1,0 +1,47 @@
+<messages>
+<message>
+  <id>1</id>
+  <senderid>5</senderid>
+  <receiverid>0</receiverid>
+  <pid>1</pid>
+  <title>배송기간</title>
+  <content>얼마만에 배송되나요?</content>
+  <time>2021-06-18 19:14:11</time>
+</message>
+<message>
+  <id>2</id>
+  <senderid>0</senderid>
+  <receiverid>5</receiverid>
+  <pid>1</pid>
+  <title>배송 기간</title>
+  <content>금방 갑니다</content>
+  <time>2021-06-19 14:40:03</time>
+</message>
+<message>
+  <id>3</id>
+  <senderid>5</senderid>
+  <receiverid>0</receiverid>
+  <pid>6</pid>
+  <title>슬랙스 상세 크기</title>
+  <content>슬랙스 길이랑 허리 상세 크기가 어떻게 되는지 알 수 있을까요?</content>
+  <time>2021-06-19 21:16:59</time>
+</message>
+<message>
+  <id>4</id>
+  <senderid>1</senderid>
+  <receiverid>0</receiverid>
+  <pid>4</pid>
+  <title>후드티 재질</title>
+  <content>후드티 재질이 어떻게 되나요?</content>
+  <time>2021-06-19 22:45:11</time>
+</message>
+<message>
+  <id>5</id>
+  <senderid>5</senderid>
+  <receiverid>0</receiverid>
+  <pid>1</pid>
+  <title>re: 금방갑니다</title>
+  <content>답변 감사합니다</content>
+  <time>2021-06-19 22:49:22</time>
+</message>
+</messages>

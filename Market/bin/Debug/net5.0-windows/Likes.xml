@@ -1,0 +1,22 @@
+<likes>
+<like>
+  <id>2</id>
+  <uid>5</uid>
+  <pid>3</pid>
+</like>
+<like>
+  <id>3</id>
+  <uid>1</uid>
+  <pid>3</pid>
+</like>
+<like>
+  <id>4</id>
+  <uid>5</uid>
+  <pid>6</pid>
+</like>
+<like>
+  <id>5</id>
+  <uid>5</uid>
+  <pid>4</pid>
+</like>
+</likes>
